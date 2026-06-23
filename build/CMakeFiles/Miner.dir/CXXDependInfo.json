@@ -1,0 +1,35 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Bubu/Documents/kode/miner/build",
+	"dir-cur-src" : "C:/Users/Bubu/Documents/kode/miner",
+	"dir-top-bld" : "C:/Users/Bubu/Documents/kode/miner/build",
+	"dir-top-src" : "C:/Users/Bubu/Documents/kode/miner",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\Bubu\\Documents\\kode\\miner\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Bubu/Documents/kode/miner/build/CMakeFiles/Miner.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Miner.dir/src/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Bubu/Documents/kode/miner/src/main.cpp"
+		},
+		"CMakeFiles/Miner.dir/src/miner.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Bubu/Documents/kode/miner/src/miner.cpp"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Bubu/Documents/kode/miner/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/Bubu/Documents/kode/miner/include -std=gnu++20 -o CMakeFiles\\Miner.dir\\src\\main.cpp.obj -c C:\\Users\\Bubu\\Documents\\kode\\miner\\src\\main.cpp",
+  "file": "C:/Users/Bubu/Documents/kode/miner/src/main.cpp",
+  "output": "C:/Users/Bubu/Documents/kode/miner/build/CMakeFiles/Miner.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bubu/Documents/kode/miner/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/Bubu/Documents/kode/miner/include -std=gnu++20 -o CMakeFiles\\Miner.dir\\src\\miner.cpp.obj -c C:\\Users\\Bubu\\Documents\\kode\\miner\\src\\miner.cpp",
+  "file": "C:/Users/Bubu/Documents/kode/miner/src/miner.cpp",
+  "output": "C:/Users/Bubu/Documents/kode/miner/build/CMakeFiles/Miner.dir/src/miner.cpp.obj"
+}
+]

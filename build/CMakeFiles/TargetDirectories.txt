@@ -1,0 +1,3 @@
+C:/Users/Bubu/Documents/kode/miner/build/CMakeFiles/Miner.dir
+C:/Users/Bubu/Documents/kode/miner/build/CMakeFiles/edit_cache.dir
+C:/Users/Bubu/Documents/kode/miner/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Miner.dir/src/main.cpp.obj: dyndep
+
+build CMakeFiles/Miner.dir/src/miner.cpp.obj: dyndep
+

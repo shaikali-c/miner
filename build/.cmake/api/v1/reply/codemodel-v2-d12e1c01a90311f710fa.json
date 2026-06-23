@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Miner",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Miner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Miner-dd4fe8a6bbc3d6482c80.json",
+					"name" : "Miner",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Bubu/Documents/kode/miner/build",
+		"source" : "C:/Users/Bubu/Documents/kode/miner"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}
